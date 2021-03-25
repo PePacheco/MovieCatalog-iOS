@@ -1,0 +1,165 @@
+
+[
+  {
+    "Title": "Another Round",
+    "Description": "Four high school teachers launch a drinking experiment: upholding a constant low level of intoxication.",
+    "Year": 2020,
+    "Genre": "Comedy, Drama",
+    "Rate": 7.8,
+    "Duration": "1h 57m",
+    "nowPlaying": true
+  },
+  {
+    "Title": "Raya and the Last Dragon",
+    "Description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+    "Year": 2021,
+    "Genre": "Animation, Adventure, Fantasy, Family, Action",
+    "Rate": 8.4,
+    "Duration": "1h 47m",
+    "nowPlaying": true
+  },
+  {
+    "Title": "Godzilla vs. Kong",
+    "Description": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+    "Year": 2021,
+    "Genre": "Action, Science Fiction",
+    "Rate": 7.5,
+    "Duration": "1h 53m",
+    "nowPlaying": true
+  },
+  {
+    "Title": "Tom & Jerry",
+    "Description": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+    "Year": 2021,
+    "Genre": "Action, Comedy, Family, Animation",
+    "Rate": 7.4,
+    "Duration": "1h 41m",
+    "nowPlaying": true
+  },
+  {
+    "Title": "Monster Hunter",
+    "Description": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+    "Year": 2020,
+    "Genre": "Fantasy, Action, Adventure",
+    "Rate": 7.2,
+    "Duration": "1h 44m",
+    "nowPlaying": true
+  },
+  {
+    "Title": "Nomadland",
+    "Description": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
+    "Year": 2020,
+    "Genre": "Drama, Western",
+    "Rate": 7.5,
+    "Duration": "1h 48m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "Chaos Walking",
+    "Description": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.",
+    "Year": 2021,
+    "Genre": "Science Fiction, Action, Adventure, Thriller",
+    "Rate": 7.3,
+    "Duration": "1h 49m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "The Marksman",
+    "Description": "Jim Hanson’s quiet life is suddenly disturbed by two people crossing the US/Mexico border – a woman and her young son – desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boy’s reluctant defender. He embraces his role as Miguel’s protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.",
+    "Year": 2021,
+    "Genre": "Action, Thriller, Crime",
+    "Rate": 6.2,
+    "Duration": "1h 48m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "The Seventh Day",
+    "Description": "A renowned exorcist teams up with a rookie priest for his first day of training. As they plunge deeper into hell on earth, the lines between good and evil blur, and their own demons emerge.",
+    "Year": 2021,
+    "Genre": "Horror",
+    "Rate": 4.3,
+    "Duration": "1h 27m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "Nobody",
+    "Description": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+    "Year": 2021,
+    "Genre": "Action, Thriller, Crime",
+    "Rate": 8.1,
+    "Duration": "1h 32m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "Promising Young Woman",
+    "Description": "A young woman haunted by a tragedy in her past takes revenge on the predatory men unlucky enough to cross her path.",
+    "Year": 2020,
+    "Genre": "Thriller, Crime, Drama",
+    "Rate": 7.6,
+    "Duration": "1h 53m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "The Father",
+    "Description": "A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+    "Year": 2020,
+    "Genre": "Drama",
+    "Rate": 7.6,
+    "Duration": "1h 37m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "The Vault",
+    "Description": "When an engineer learns of a mysterious, impenetrable fortress hidden under The Bank of Spain, he joins a crew of master thieves who plan to steal the legendary lost treasure locked inside while the whole country is distracted by Spain's World Cup Final. With thousands of soccer fans cheering in the streets, and security forces closing in, the crew have just minutes to pull off the score of a lifetime.",
+    "Year": 2021,
+    "Genre": "Action, Thriller, Crime",
+    "Rate": 6.6,
+    "Duration": "1h 58m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "Crisis",
+    "Description": "Three stories about the world of opioids collide: a drug trafficker arranges a multi-cartel Fentanyl smuggling operation between Canada and the U.S., an architect recovering from an OxyContin addiction tracks down the truth behind her son's involvement with narcotics, and a university professor battles unexpected revelations about his research employer, a drug company with deep government influence bringing a new \"non-addictive\" painkiller to market.",
+    "Year": 2021,
+    "Genre": "Drama, Crime, Thriller",
+    "Rate": 6.6,
+    "Duration": "1h 58m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "Cosmic Sin",
+    "Description": "Bruce Willis and Frank Grillo star in the new epic sci-fi adventure set in the year 2524, four hundred years after humans started colonizing the outer planets. Retired Military General James Ford (Willis) is called back into service after soldiers on a remote planet are attacked by a hostile alien fleet. The threat against the human race escalates into an inevitable interstellar war. General Ford teams up with General Eron Ryle (Grillo) and a team of elite soldiers in a race to stop the imminent attack before it is too late.",
+    "Year": 2021,
+    "Genre": "Science Fiction, Action",
+    "Rate": 5.6,
+    "Duration": "1h 33m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "The Courier",
+    "Description": "Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.",
+    "Year": 2021,
+    "Genre": "Drama, Thriller",
+    "Rate": 7.2,
+    "Duration": "1h 52m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "Shoplifters of the World",
+    "Description": "Denver, summer 1987. One crazy night in the life of four friends reeling from the sudden demise of iconic British band The Smiths, while the local airwaves are hijacked by an impassioned Smiths fan with a gun.",
+    "Year": 2021,
+    "Genre": "Comedy",
+    "Rate": 0.0,
+    "Duration": "1h 31m",
+    "nowPlaying": false
+  },
+  {
+    "Title": "Senior Moment",
+    "Description": "After drag racing his vintage convertible around Palm Springs, a retired NASA test pilot (William Shatner) loses his license. Forced to take public transportation, he meets Caroline (Jean Smart) and learns to navigate love and life again.",
+    "Year": 2021,
+    "Genre": "Comedy, Romance",
+    "Rate": 0.0,
+    "Duration": "1h 32m",
+    "nowPlaying": false
+  }
+]

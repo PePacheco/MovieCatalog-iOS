@@ -12,6 +12,7 @@ struct SwiftUI_BasicsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(ModelData())
         }
     }
 }
