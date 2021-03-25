@@ -14,11 +14,11 @@ struct NowPlayingRow: View {
             HStack {
                 Text("Now Playing")
                     .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
-                    .padding()
+                    .padding(.vertical)
                 Spacer()
                 Text("See All")
                     .foregroundColor(.gray)
-                    .padding()
+                    .padding(.vertical)
             }
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 10) {

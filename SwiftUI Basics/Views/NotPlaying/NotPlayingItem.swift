@@ -21,6 +21,7 @@ struct NotPlayingItem: View {
                     .padding(.bottom, 3)
                 Text(movie.Description)
                     .fontWeight(.light)
+                    .font(Font.custom("San-Francisco", size: 15.0))
                     .foregroundColor(.gray)
                     .padding(.bottom, 5)
             }

@@ -24,7 +24,6 @@ struct NowPlayingItem: View {
             .foregroundColor(.gray)
         }
         .frame(width: 140)
-        .padding(.leading, 5)
     }
 }
 
