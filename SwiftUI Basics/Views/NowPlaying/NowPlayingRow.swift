@@ -10,7 +10,7 @@ import SwiftUI
 struct NowPlayingRow: View {
     var moviesPlaying: [Movie]
     var body: some View {
-        VStack (alignment: .leading, spacing: 15) {
+        VStack (alignment: .leading, spacing: 0) {
             HStack {
                 Text("Now Playing")
                     .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
@@ -23,11 +23,13 @@ struct NowPlayingRow: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 10) {
                     ForEach(moviesPlaying, id: \.Title) { movie in
-                        NowPlayingItem(movie: movie)
+                        NavigationLink(destination: MovieDetail(movie: movie)) {
+                            NowPlayingItem(movie: movie)
+                        }
                     }
                 }
             }
-            .frame(height: 250)
+            .frame(height: 300)
         }
     }
 }

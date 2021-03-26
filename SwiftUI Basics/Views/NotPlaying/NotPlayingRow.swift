@@ -16,7 +16,9 @@ struct NotPlayingRow: View {
                     .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
                     .font(.title2)
                 ForEach(movies, id: \.Title) { movie in
-                    NotPlayingItem(movie: movie)
+                    NavigationLink(destination: MovieDetail(movie: movie)) {
+                        NotPlayingItem(movie: movie)
+                    }
                 }
             }
         }
